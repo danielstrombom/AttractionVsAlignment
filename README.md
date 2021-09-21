@@ -10,10 +10,10 @@ To regenerate Figure 3 from new simulations with the parameters in the manuscrip
 2. To regenerate Figure 3 in the manuscript run the command Fig3(100,4,0.5,20,pi,1,0.01,100). 
 3. To perform the same analysis as in the manuscript with different auxillary parameter values run the command Fig3(N,R,delta,L,beta,tau,a,T) by substituting the desired values for each of the parameters specified below
 
-N = number of particles 
-R = interaction radius 
-delta = displacement per time step 
-L = side length of square
+N = number of particles. 
+R = interaction radius. 
+delta = displacement per time step. 
+L = side length of simulation square.
 beta = size of blind zone for model II.
 tau = anticipation time for model IV.
 a = relative strength of explicit alignment in model VII.
