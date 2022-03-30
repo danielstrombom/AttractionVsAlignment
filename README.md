@@ -1,7 +1,7 @@
 # AttractionVsAlignment
-Code for Strömbom &amp; Tulevech. Attraction versus alignment as drivers of collective motion. Submitted.
+Code for Strömbom &amp; Tulevech. 2022. Attraction vs alignment as drivers of collective motion. Front. Appl. Stat. 7:717523. Fulltext may be found here https://www.frontiersin.org/articles/10.3389/fams.2021.717523/full
 
-Here you can find all code necessary to regenerate figures 3, 4, 5, S1 and S2 in Strömbom & Tulevech's manuscript Attraction versus alignment as drivers of collective motion. Instructions for how to perform the same analyses with parameters other than those used in the paper is also described.
+Here you can find all code necessary to regenerate figures 3, 4, 5, S1 and S2 in the manuscript. Instructions for how to perform the same analyses with parameters other than those used in the paper is also described.
 
 FIGURE 3
 To regenerate Figure 3 from new simulations with the parameters in the manuscript (2) or other parameters (3) 
